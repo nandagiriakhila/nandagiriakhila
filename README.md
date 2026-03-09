@@ -1,13 +1,6 @@
-## Hi there 👋
 
-<!--
-**nandagiriakhila/nandagiriakhila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently workingHere is a **clean GitHub Profile README** tailored to what you’re working on (AI, RAG, ML, React). You can place this in a repository named **your-username/your-username** so it appears on your GitHub profile.
-
----
 
 # 👋 Hi, I'm Akhila
 
@@ -18,7 +11,7 @@ Here are some ideas to get you started:
 
 ## 🚀 What I'm Working On
 
-* 🔎 **Hybrid RAG Systems** combining **sparse (BM25) and dense retrieval**
+* 🔎 Hybrid RAG Systems combining **sparse (BM25) and dense retrieval**
 * 📊 **LLM Evaluation Pipelines** using **RAGAS**
 * 🧠 Building **Notebook LLMs** that analyze previous question papers and generate probable questions and notes
 * 🌐 **AI + Web Apps** integrating ML models with frontend interfaces
@@ -90,31 +83,31 @@ Python | JavaScript | SQL
 
 AI / ML
 
-```
+
 PyTorch | Transformers | RAG | RAGAS | YOLOv8 | NLP
-```
+
 
 Web
 
-```
+
 React | HTML | CSS | FastAPI
-```
+
 
 Tools
 
-```
-Git | GitHub | Jupyter | VS Code
-```
 
----
+Git | GitHub | Jupyter | VS Code
+
+
+
 
 ## 📈 GitHub Stats
 
-```markdown
+markdown
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
-```
+
 
 ---
 
