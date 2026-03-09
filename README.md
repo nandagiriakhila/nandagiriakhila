@@ -101,16 +101,6 @@ Git | GitHub | Jupyter | VS Code
 
 
 
-## 📈 GitHub Stats
-
-markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nandagiri akhila&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nandagiri akhila&layout=compact)
-
-
----
-
 ⭐ Always interested in **building AI systems that solve real-world problems.**
 
 
