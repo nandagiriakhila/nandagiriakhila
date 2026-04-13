@@ -11,10 +11,11 @@
 
 ## 🚀 What I'm Working On
 
-* 🔎 Hybrid RAG Systems combining **sparse (BM25) and dense retrieval**
-* 📊 **LLM Evaluation Pipelines** using **RAGAS**
-* 🧠 Building **Notebook LLMs** that analyze previous question papers and generate probable questions and notes
-* 🌐 **AI + Web Apps** integrating ML models with frontend interfaces
+*  Hybrid RAG Systems combining **sparse (BM25) and dense retrieval**
+*  **LLM Evaluation Pipelines** using **RAGAS**
+*  Building **Notebook LLMs** that analyze previous question papers and generate probable questions and notes
+*  **AI + Web Apps** integrating ML models with frontend interfaces
+*  **Rag Strategies Comparision** - Naive Rag , Hybrid Rag , MultiQuery Rag 
 
 ---
 
@@ -25,7 +26,7 @@
 * **LLM Evaluation (Answer Correctness, Faithfulness, Context Relevancy)**
 * **React & Modern JavaScript**
 * **ML System Design**
-
+* **MLOPS**
 ---
 
 ## 🔬 Projects
@@ -82,22 +83,22 @@ Python | JavaScript | SQL
 ```
 
 AI / ML
-
+```
 
 PyTorch | Transformers | RAG | RAGAS | YOLOv8 | NLP
-
+```
 
 Web
 
-
+```
 React | HTML | CSS | FastAPI
-
+```
 
 Tools
 
-
+```
 Git | GitHub | Jupyter | VS Code
-
+```
 
 
 
